@@ -2,3 +2,5 @@ I have created the dashboard with the help of eight sheets which are year, month
 top 5 customer sales amount, sales amount at every month.
 In the dashboard year and month, sheets are used as filters.
 
+The images of tableau dashboards you can see in the below link or issue section or screenshots folder. 
+https://github.com/adityanandgaokar/Sales_Insights_Tableau/issues/1#issue-836844870
